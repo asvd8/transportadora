@@ -1,0 +1,112 @@
+[11-Nov-2015 11:41:20 America/Mexico_City] PHP Fatal error:  Call to a member function agregar_preseleccion() on a non-object in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc.php on line 9
+[11-Nov-2015 11:41:33 America/Mexico_City] PHP Fatal error:  Call to a member function agregar_preseleccion() on a non-object in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc.php on line 9
+[11-Nov-2015 11:42:50 America/Mexico_City] PHP Fatal error:  Call to a member function agregar_preseleccion() on a non-object in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc.php on line 9
+[11-Nov-2015 11:42:55 America/Mexico_City] PHP Fatal error:  Call to a member function agregar_preseleccion() on a non-object in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc.php on line 9
+[11-Nov-2015 11:43:21 America/Mexico_City] PHP Fatal error:  Call to a member function agregar_preseleccion() on a non-object in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc.php on line 9
+[11-Nov-2015 11:43:29 America/Mexico_City] PHP Fatal error:  Call to a member function agregar_preseleccion() on a non-object in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc.php on line 9
+[11-Nov-2015 11:43:33 America/Mexico_City] PHP Fatal error:  Call to a member function agregar_preseleccion() on a non-object in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc.php on line 9
+[11-Nov-2015 11:43:36 America/Mexico_City] PHP Fatal error:  Call to a member function agregar_preseleccion() on a non-object in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc.php on line 9
+[11-Nov-2015 13:10:40 America/Mexico_City] PHP Parse error:  syntax error, unexpected '}' in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc.php on line 49
+[11-Nov-2015 13:12:23 America/Mexico_City] PHP Parse error:  syntax error, unexpected '}' in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc.php on line 49
+[11-Nov-2015 13:16:44 America/Mexico_City] PHP Parse error:  syntax error, unexpected '}' in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc.php on line 49
+[11-Nov-2015 13:17:38 America/Mexico_City] PHP Parse error:  syntax error, unexpected '}' in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc.php on line 49
+[18-Jan-2016 19:14:20 America/Mexico_City] PHP Warning:  include(/home/digital1/public_html/Modelo/clase_2d.php): failed to open stream: No such file or directory in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc_eventos.php on line 3
+[18-Jan-2016 19:14:20 America/Mexico_City] PHP Warning:  include(): Failed opening '/home/digital1/public_html/Modelo/clase_2d.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc_eventos.php on line 3
+[18-Jan-2016 19:14:20 America/Mexico_City] PHP Fatal error:  Class 'dosd' not found in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc_eventos.php on line 10
+[18-Jan-2016 19:14:22 America/Mexico_City] PHP Warning:  include(/home/digital1/public_html/Modelo/clase_2d.php): failed to open stream: No such file or directory in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc_eventos.php on line 3
+[18-Jan-2016 19:14:22 America/Mexico_City] PHP Warning:  include(): Failed opening '/home/digital1/public_html/Modelo/clase_2d.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc_eventos.php on line 3
+[18-Jan-2016 19:14:22 America/Mexico_City] PHP Fatal error:  Class 'dosd' not found in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc_eventos.php on line 10
+[18-Jan-2016 19:14:31 America/Mexico_City] PHP Warning:  include(/home/digital1/public_html/Modelo/clase_2d.php): failed to open stream: No such file or directory in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc_eventos.php on line 3
+[18-Jan-2016 19:14:31 America/Mexico_City] PHP Warning:  include(): Failed opening '/home/digital1/public_html/Modelo/clase_2d.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc_eventos.php on line 3
+[18-Jan-2016 19:14:31 America/Mexico_City] PHP Fatal error:  Class 'dosd' not found in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc_eventos.php on line 10
+[18-Jan-2016 19:14:34 America/Mexico_City] PHP Warning:  include(/home/digital1/public_html/Modelo/clase_2d.php): failed to open stream: No such file or directory in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc_eventos.php on line 3
+[18-Jan-2016 19:14:34 America/Mexico_City] PHP Warning:  include(): Failed opening '/home/digital1/public_html/Modelo/clase_2d.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc_eventos.php on line 3
+[18-Jan-2016 19:14:34 America/Mexico_City] PHP Fatal error:  Class 'dosd' not found in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc_eventos.php on line 10
+[18-Jan-2016 19:16:26 America/Mexico_City] PHP Warning:  include(/home/digital1/public_html/Modelo/clase_2d.php): failed to open stream: No such file or directory in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc_eventos.php on line 3
+[18-Jan-2016 19:16:26 America/Mexico_City] PHP Warning:  include(): Failed opening '/home/digital1/public_html/Modelo/clase_2d.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc_eventos.php on line 3
+[18-Jan-2016 19:16:26 America/Mexico_City] PHP Fatal error:  Class 'dosd' not found in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc_eventos.php on line 10
+[18-Jan-2016 19:16:29 America/Mexico_City] PHP Warning:  include(/home/digital1/public_html/Modelo/clase_2d.php): failed to open stream: No such file or directory in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc_eventos.php on line 3
+[18-Jan-2016 19:16:29 America/Mexico_City] PHP Warning:  include(): Failed opening '/home/digital1/public_html/Modelo/clase_2d.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc_eventos.php on line 3
+[18-Jan-2016 19:16:29 America/Mexico_City] PHP Fatal error:  Class 'dosd' not found in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc_eventos.php on line 10
+[18-Jan-2016 19:17:14 America/Mexico_City] PHP Warning:  include(/home/digital1/public_html/Modelo/clase_2d.php): failed to open stream: No such file or directory in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc_eventos.php on line 3
+[18-Jan-2016 19:17:14 America/Mexico_City] PHP Warning:  include(): Failed opening '/home/digital1/public_html/Modelo/clase_2d.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc_eventos.php on line 3
+[18-Jan-2016 19:17:14 America/Mexico_City] PHP Fatal error:  Class 'dosd' not found in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc_eventos.php on line 10
+[18-Jan-2016 19:17:16 America/Mexico_City] PHP Warning:  include(/home/digital1/public_html/Modelo/clase_2d.php): failed to open stream: No such file or directory in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc_eventos.php on line 3
+[18-Jan-2016 19:17:16 America/Mexico_City] PHP Warning:  include(): Failed opening '/home/digital1/public_html/Modelo/clase_2d.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc_eventos.php on line 3
+[18-Jan-2016 19:17:16 America/Mexico_City] PHP Fatal error:  Class 'dosd' not found in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc_eventos.php on line 10
+[18-Jan-2016 19:17:56 America/Mexico_City] PHP Warning:  include(/home/digital1/public_html/Modelo/clase_2d.php): failed to open stream: No such file or directory in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc_eventos.php on line 3
+[18-Jan-2016 19:17:56 America/Mexico_City] PHP Warning:  include(): Failed opening '/home/digital1/public_html/Modelo/clase_2d.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc_eventos.php on line 3
+[18-Jan-2016 19:17:56 America/Mexico_City] PHP Fatal error:  Class 'dosd' not found in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc_eventos.php on line 10
+[18-Jan-2016 19:18:16 America/Mexico_City] PHP Warning:  include(/home/digital1/public_html/Modelo/clase_2d.php): failed to open stream: No such file or directory in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc_eventos.php on line 3
+[18-Jan-2016 19:18:16 America/Mexico_City] PHP Warning:  include(): Failed opening '/home/digital1/public_html/Modelo/clase_2d.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc_eventos.php on line 3
+[18-Jan-2016 19:18:16 America/Mexico_City] PHP Fatal error:  Class 'dosd' not found in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc_eventos.php on line 10
+[18-Jan-2016 19:18:35 America/Mexico_City] PHP Warning:  include(/home/digital1/public_html/Modelo/clase_2d.php): failed to open stream: No such file or directory in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc_eventos.php on line 3
+[18-Jan-2016 19:18:35 America/Mexico_City] PHP Warning:  include(): Failed opening '/home/digital1/public_html/Modelo/clase_2d.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc_eventos.php on line 3
+[18-Jan-2016 19:18:35 America/Mexico_City] PHP Fatal error:  Class 'dosd' not found in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc_eventos.php on line 10
+[18-Jan-2016 19:18:58 America/Mexico_City] PHP Warning:  include(/home/digital1/public_html/Modelo/clase_2d.php): failed to open stream: No such file or directory in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc_eventos.php on line 3
+[18-Jan-2016 19:18:58 America/Mexico_City] PHP Warning:  include(): Failed opening '/home/digital1/public_html/Modelo/clase_2d.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc_eventos.php on line 3
+[18-Jan-2016 19:18:58 America/Mexico_City] PHP Fatal error:  Class 'dosd' not found in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc_eventos.php on line 10
+[18-Jan-2016 19:19:55 America/Mexico_City] PHP Warning:  include(/home/digital1/public_html/Modelo/clase_2d.php): failed to open stream: No such file or directory in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc_eventos.php on line 3
+[18-Jan-2016 19:19:55 America/Mexico_City] PHP Warning:  include(): Failed opening '/home/digital1/public_html/Modelo/clase_2d.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc_eventos.php on line 3
+[18-Jan-2016 19:19:55 America/Mexico_City] PHP Fatal error:  Class 'dosd' not found in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc_eventos.php on line 10
+[18-Jan-2016 19:19:58 America/Mexico_City] PHP Warning:  include(/home/digital1/public_html/Modelo/clase_2d.php): failed to open stream: No such file or directory in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc_eventos.php on line 3
+[18-Jan-2016 19:19:58 America/Mexico_City] PHP Warning:  include(): Failed opening '/home/digital1/public_html/Modelo/clase_2d.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc_eventos.php on line 3
+[18-Jan-2016 19:19:58 America/Mexico_City] PHP Fatal error:  Class 'dosd' not found in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc_eventos.php on line 10
+[07-Mar-2016 16:26:07 America/Mexico_City] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/digital1/public_html/eventos/Modelo/clase_2d.php:11
+Stack trace:
+#0 /home/digital1/public_html/eventos/Modelo/clase_2d.php(11): PDO->__construct('mysql:host=loca...', 'digital1_evento...', '2d1g1t4l')
+#1 /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc.php(21): dosd->__construct()
+#2 {main}
+  thrown in /home/digital1/public_html/eventos/Modelo/clase_2d.php on line 11
+[07-Mar-2016 17:27:07 America/Mexico_City] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/digital1/public_html/eventos/Modelo/clase_2d.php:11
+Stack trace:
+#0 /home/digital1/public_html/eventos/Modelo/clase_2d.php(11): PDO->__construct('mysql:host=loca...', 'digital1_evento...', '2d1g1t4l')
+#1 /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc.php(21): dosd->__construct()
+#2 {main}
+  thrown in /home/digital1/public_html/eventos/Modelo/clase_2d.php on line 11
+[07-Mar-2016 17:43:52 America/Mexico_City] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/digital1/public_html/eventos/Modelo/clase_2d.php:11
+Stack trace:
+#0 /home/digital1/public_html/eventos/Modelo/clase_2d.php(11): PDO->__construct('mysql:host=loca...', 'digital1_evento...', '2d1g1t4l')
+#1 /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc.php(21): dosd->__construct()
+#2 {main}
+  thrown in /home/digital1/public_html/eventos/Modelo/clase_2d.php on line 11
+[14-Mar-2016 11:13:47 America/Mexico_City] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/digital1/public_html/eventos/Modelo/clase_2d.php:11
+Stack trace:
+#0 /home/digital1/public_html/eventos/Modelo/clase_2d.php(11): PDO->__construct('mysql:host=loca...', 'digital1_evento...', '2d1g1t4l')
+#1 /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc.php(21): dosd->__construct()
+#2 {main}
+  thrown in /home/digital1/public_html/eventos/Modelo/clase_2d.php on line 11
+[22-Jul-2016 18:04:16 America/Mexico_City] PHP Warning:  Illegal string offset 'total' in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/pdf_pedidos.php on line 6
+[25-Jul-2016 17:23:59 America/Mexico_City] PHP Fatal error:  Class 'HTML2PDF' not found in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/pdf_pedidos.php on line 8
+[25-Jul-2016 17:53:19 America/Mexico_City] PHP Fatal error:  Class 'HTML2PDF' not found in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/pdf_pedidos.php on line 8
+[25-Jul-2016 17:53:52 America/Mexico_City] PHP Fatal error:  Class 'HTML2PDF' not found in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/pdf_pedidos.php on line 8
+[25-Jul-2016 17:56:12 America/Mexico_City] PHP Fatal error:  Class 'HTML2PDF' not found in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/pdf_pedidos.php on line 8
+[25-Jul-2016 17:56:32 America/Mexico_City] PHP Fatal error:  Class 'HTML2PDF' not found in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/pdf_pedidos.php on line 8
+[25-Jul-2016 17:57:41 America/Mexico_City] PHP Fatal error:  Class 'HTML2PDF' not found in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/pdf_pedidos.php on line 8
+[25-Jul-2016 17:58:32 America/Mexico_City] PHP Fatal error:  Class 'HTML2PDF' not found in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/pdf_pedidos.php on line 8
+[27-Jul-2016 16:48:10 America/Mexico_City] PHP Fatal error:  Uncaught <span style="color: #AA0000; font-weight: bold;">ERROR n°4</span><br>Fichero : /home/digital1/public_html/eventos/Vista_2d/html2pdf_v4.03/_class/parsingHtml.class.php<br>Línea : 119<br><br>Código HTML no válido, las etiquetas no estan cerradas en el orden correcto.<br>Estado : <pre>Array
+(
+    [0] => page
+)
+</pre><br><br>HTML : ...: &lt;/b&gt;0.00&lt;br/&gt;&lt;br/&gt;
+	 		
+	 		&lt;/table&gt;			&lt;br/&gt;  &lt;br/&gt;
+			&lt;p&gt;
+						&lt;/p...
+  thrown in /home/digital1/public_html/eventos/Vista_2d/html2pdf_v4.03/_class/parsingHtml.class.php on line 119
+[08-Aug-2016 16:41:25 America/Mexico_City] PHP Warning:  require_once(Vista_2d/html2pdf_v4.03/html2pdf.class.php): failed to open stream: No such file or directory in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/pdf_pedidos.php on line 2
+[08-Aug-2016 16:41:25 America/Mexico_City] PHP Fatal error:  require_once(): Failed opening required 'Vista_2d/html2pdf_v4.03/html2pdf.class.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/digital1/public_html/eventos/Vista_2d/Contenido/php/pdf_pedidos.php on line 2
+[16-Aug-2016 12:01:09 America/Mexico_City] PHP Fatal error:  Uncaught <span style="color: #AA0000; font-weight: bold;">ERROR n°7</span><br>Fichero : /home/digital1/public_html/eventos/Vista_2d/html2pdf_v4.03/html2pdf.class.php<br>Línea : 5524<br><br>El contenido de una etiqueta TD no encaja en una sola página
+  thrown in /home/digital1/public_html/eventos/Vista_2d/html2pdf_v4.03/html2pdf.class.php on line 5524
+[30-Aug-2016 11:50:54 America/Mexico_City] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/digital1/public_html/eventos/Modelo/clase_2d.php:12
+Stack trace:
+#0 /home/digital1/public_html/eventos/Modelo/clase_2d.php(12): PDO->__construct('mysql:host=75.1...', 'digital_2d', '633z%4Fm')
+#1 /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc.php(21): dosd->__construct()
+#2 {main}
+  thrown in /home/digital1/public_html/eventos/Modelo/clase_2d.php on line 12
+[30-Aug-2016 12:29:42 America/Mexico_City] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/digital1/public_html/eventos/Modelo/clase_2d.php:12
+Stack trace:
+#0 /home/digital1/public_html/eventos/Modelo/clase_2d.php(12): PDO->__construct('mysql:host=75.1...', 'digital_2d', '633z%4Fm')
+#1 /home/digital1/public_html/eventos/Vista_2d/Contenido/php/proc.php(21): dosd->__construct()
+#2 {main}
+  thrown in /home/digital1/public_html/eventos/Modelo/clase_2d.php on line 12
